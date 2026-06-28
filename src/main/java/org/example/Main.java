@@ -2,9 +2,6 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hi, This is to understand git commands");
-        System.out.println("this is Azar");
-        System.out.println("i work as an ase");
-        //just to check diff
 
         System.out.println("new branch testing2");
     }
